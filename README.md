@@ -1,6 +1,6 @@
 ## golang Experimental Neural Network
 ### by Eugene Shashkov
-![github-small](manual/images/enn.jpg)
+![github-small][https://github.com/eugene-shashkov/enn](manual/images/enn.jpg)
 - Attempt to create Neural Network with golang
 
 - Very raw functionality, do not use this library
